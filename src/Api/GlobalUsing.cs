@@ -1,0 +1,16 @@
+global using MediatR;
+global using Api.Model;
+global using Marten;
+global using Marten.Schema;
+global using Api.Data.Seed;
+global using Carter;
+global using Api.CQRS;
+global using Mapster;
+global using Marten.Pagination;
+// global using Api.Behaviors;
+global using FluentValidation;
+global using Microsoft.AspNetCore.Diagnostics;
+global using Microsoft.AspNetCore.Mvc;
+// global using Api.Exceptions.Handler;
+global using System.Diagnostics;
+// global using Api.Exceptions;
